@@ -11,7 +11,7 @@ You can use RStudio to open and run app.R
 
 Please find more details about the project in "Ali Abbas - Project.pdf"
 
-# References
+### References
 
 -I used the zoom functionality from here:
 https://bl.ocks.org/davo/cd7261bd67581f284b6601fa4dd652b1
