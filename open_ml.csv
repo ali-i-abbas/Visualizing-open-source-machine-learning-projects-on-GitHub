@@ -1,0 +1,65 @@
+name,alignment,company,forecast,year,code_of_conduct,contributing,stars,issues,contributors,core,team,commits,team_all,link,language,implementation,license
+pipecnn,academia,,-1,2016,false,false,246,77,3,1,1,46,0.95,https://github.com/doonny/PipeCNN,cmdline,verilog,apache
+weka,academia,,1,1999,false,false,252,0,9,3,3,9426,0.39,http://www.cs.waikato.ac.nz/ml/weka/,java,java,gpl
+ranger,academia,,1,2015,false,false,290,166,12,1,1,1012,0.97,https://github.com/imbs-hl/ranger,r,c++,gpl
+bidmach,academia,,0,2012,false,false,843,132,15,1,3,2544,0.96,https://github.com/BIDData/BIDMach,scala,scala,bsd
+snap,academia,,0,2010,false,false,857,87,42,2,2,1843,0.46,https://github.com/snap-stanford/snap,cmdline,c++,bsd
+brainstorm,academia,,-1,2014,false,true,1275,83,15,2,2,931,0.9,https://github.com/IDSIA/brainstorm,python,python,mit
+singa,academia,,0,2015,false,true,1426,363,32,1,3,896,0.71,https://github.com/apache/incubator-singa,multi,c++,apache
+dynet,academia,,1,2015,false,true,2253,725,104,5,5,3066,0.64,https://github.com/clab/dynet,"python, c++",c++,apache
+libsvm,academia,,0,2003,false,false,2628,70,11,1,1,1015,0.59,https://github.com/cjlin1/libsvm,multi,c++,bsd
+lasagne,academia,,-1,2014,false,false,3427,508,64,3,3,1154,0.54,https://github.com/Lasagne/Lasagne,python,python,mit
+edward,academia,,0,2016,false,false,3537,469,77,1,1,1792,0.73,https://github.com/blei-lab/edward,python,python,apache
+corenlp,academia,,1,2013,false,true,4722,563,83,2,3,14692,0.54,https://github.com/stanfordnlp/CoreNLP,java,java,gpl
+pattern,academia,,0,2011,false,true,6250,140,19,1,1,968,0.95,https://github.com/clips/pattern,python,python,bsd
+theano,academia,,-1,2011,false,true,8177,2551,329,1,3,27977,0.57,https://github.com/Theano/Theano,python,python,bsd
+sklearn,academia,,1,2010,false,true,27777,4961,1077,5,5,22743,0.43,https://github.com/scikit-learn/scikit-learn,python,python,bsd
+sse,corporate,ebay,0,2016,false,false,232,5,3,1,1,32,0.88,https://github.com/eBay/Sequence-Semantic-Embedding,python,python,apache
+opennn,corporate,artelnics,-1,2015,false,false,470,23,5,1,1,70,0.86,https://github.com/Artelnics/OpenNN,c++,c++,lgpl
+lore,corporate,instacart,1,2017,false,true,591,6,8,1,1,153,0.86,https://github.com/instacart/lore,python,python,mit
+bayesian-belief-networks,corporate,ebay,0,2013,false,false,854,15,6,1,2,227,0.95,https://github.com/eBay/bayesian-belief-networks,python,python,apache
+veles,corporate,samsung,-1,2015,false,false,854,52,8,3,3,4326,0.98,https://github.com/samsung/veles,python,python,apache
+vectorflow,corporate,netflix,0,2017,false,false,924,12,3,1,1,16,0.73,https://github.com/Netflix/vectorflow,d,d,apache
+torch,corporate,facebook,0,2012,false,true,1063,464,178,2,4,1839,0.45,https://github.com/torch/nn,lua,lua,bsd
+stan,corporate,generable,1,2013,false,false,1222,1398,63,3,8,13163,0.83,https://github.com/stan-dev/stan,multi,c++,bsd
+starspace,corporate,facebook,0,2017,false,true,1815,72,5,2,2,108,0.97,https://github.com/facebookresearch/StarSpace,cmdline,c++,bsd
+bigdl,corporate,intel,1,2016,false,false,2433,715,50,4,9,2335,0.74,https://github.com/intel-analytics/BigDL,"java, python",scala,apache
+catboost,corporate,yandex,1,2017,false,true,2709,301,58,7,7,1416,0.77,https://github.com/catboost/catboost,"python, r",c++,apache
+nervana,corporate,intel,0,2014,false,true,3480,369,77,3,14,1112,0.81,https://github.com/NervanaSystems/neon,python,python,apache
+faiss,corporate,facebook,1,2017,false,true,3601,372,26,1,2,144,0.73,https://github.com/facebookresearch/faiss,python,c++,bsd
+chainer,corporate,preferred net.,1,2015,false,false,3737,1233,161,6,11,13807,0.72,https://github.com/chainer/chainer,python,python,mit
+cntk,corporate,microsoft,0,2015,false,true,3818,2760,182,1,40,15646,0.95,https://github.com/Microsoft/CNTK,python,c++,mit
+dsstne,corporate,amazon,0,2016,true,true,4104,88,32,2,2,301,0.35,https://github.com/amzn/amazon-dsstne,cmdline,c++,apache
+aerosolve,corporate,airbnb,-1,2015,false,false,4335,17,23,2,4,1064,0.89,https://github.com/airbnb/aerosolve,java,"scala, java",apache
+dlib,corporate,DARPA,1,2008,false,false,4798,1029,109,1,1,7305,0.96,https://github.com/davisking/dlib,c++,c++,boost
+leaf,corporate,autumnai,-1,2015,false,true,5270,50,14,2,2,164,0.78,https://github.com/autumnai/leaf,rust,rust,apache
+lightgbm,corporate,microsoft,1,2016,true,false,5360,828,79,1,1,1077,0.56,https://github.com/Microsoft/LightGBM,"python, r",c++,mit
+vowpal wabbit,corporate,microsoft,0,2009,false,false,5509,551,143,1,4,7780,0.63,https://github.com/JohnLangford/vowpal_wabbit,multi,c++,bsd
+paddlepaddle,corporate,baidu,1,2016,true,true,6821,5749,129,1,30,14309,0.91,https://github.com/PaddlePaddle/Paddle,python,c++,apache
+gensim,corporate,rare tech.,1,2009,false,true,7012,972,273,1,2,3603,0.45,https://github.com/RaRe-Technologies/gensim,python,python,lgpl
+caffe2,corporate,facebook,1,2015,false,false,7851,1270,187,2,35,3678,0.85,https://github.com/caffe2/caffe2,multi,c++,apache
+deeplearning4j,corporate,skymind,1,2013,true,true,8811,2843,142,3,6,9900,0.77,https://github.com/deeplearning4j/deeplearning4j,java,java,apache
+spacy,corporate,explosion.ai,1,2014,true,true,9093,1786,209,2,2,8607,0.88,https://github.com/explosion/spaCy,python,cython,mit
+predictionio,corporate,prediction.io,0,2013,false,true,11247,347,126,2,2,4383,0.64,https://github.com/apache/predictionio,java,scala,apache
+fasttext,corporate,facebook,1,2016,false,true,13805,393,27,2,2,266,0.64,https://github.com/facebookresearch/fastText,python,c++,bsd
+mxnet,corporate,amazon,0,2015,false,false,13818,5855,521,14,14,7074,0.59,https://github.com/apache/incubator-mxnet,multi,c++,apache
+pytorch,corporate,facebook,1,2016,false,true,14703,3560,618,6,9,11129,0.48,https://github.com/pytorch/pytorch,python,python,bsd
+keras,corporate,google,1,2015,false,true,28892,7229,660,1,3,4500,0.61,https://github.com/keras-team/keras,python,python,mit
+tensorflow,corporate,google,1,2015,true,true,98172,11501,1461,34,34,32906,0.82,https://github.com/tensorflow/tensorflow,multi,c++,apache
+MachineLearning.jl,indie,,-1,2014,false,false,81,6,3,1,1,350,0.99,https://github.com/benhamner/MachineLearning.jl,julia,julia,bsd
+mir,indie,,0,2015,false,false,164,176,10,1,2,492,0.98,https://github.com/libmir/mir,d,d,boost
+jsat,indie,,1,2015,false,false,419,48,14,1,1,1540,0.98,https://github.com/EdwardRaff/JSAT,java,java,gpl
+igraph,indie,,1,2013,false,true,682,1025,19,2,2,5756,0.97,https://github.com/igraph/igraph,multi,c,gpl
+deepcl,indie,,-1,2014,false,false,684,115,13,1,1,2125,0.98,https://github.com/hughperkins/DeepCL,"python, c++",c++,mit
+nmslib,indie,,1,2013,false,false,804,237,14,1,1,1158,0.93,https://github.com/nmslib/nmslib,"python, c++",c++,apache
+caret,indie,,1,2014,false,false,829,705,64,1,1,1723,0.68,https://github.com/topepo/caret,r,r,gpl
+encog,indie,,-1,2008,false,false,1083,276,48,1,2,4505,0.84,https://github.com/encog,"java, c#","java, c#",apache
+hyperopt,indie,,0,2011,false,false,2053,286,25,1,1,939,0.75,https://github.com/hyperopt/hyperopt,python,python,bsd
+shogun,indie,,1,2006,false,false,2098,1224,145,3,4,16535,0.68,https://github.com/shogun-toolbox/shogun,multi,c++,bsd
+mlpack,indie,,1,2014,false,true,2181,751,116,2,2,18798,0.56,https://github.com/mlpack/mlpack,"python, c++",c++,bsd
+accord,indie,,1,2012,true,true,2728,1201,61,1,1,2434,0.89,https://github.com/accord-net/framework,.net,"c#",lgpl
+pymc3,indie,,1,2006,true,true,3192,1479,166,3,10,6404,0.82,https://github.com/pymc-devs/pymc3,python,python,apache
+annoy,indie,,1,2013,false,false,3465,135,34,1,1,537,0.69,https://github.com/spotify/annoy,multi,c++,apache
+golearn,indie,,0,2013,false,false,5529,99,39,1,1,439,0.34,https://github.com/sjwhitworth/golearn,go,go,mit
+php-ml,indie,,1,2016,false,true,5721,111,26,1,1,394,0.7,https://github.com/php-ai/php-ml,php,php,mit
+xgboost,indie,,1,2014,false,false,11793,2153,276,1,1,3268,0.43,https://github.com/dmlc/xgboost,multi,c++,apache
