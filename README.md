@@ -6,3 +6,5 @@ visualizing how many stars, commits, and contributors the projects have. We also
 like companies, year and language of development.
 
 I used the combination of R, Shiny, and r2d3 to implement this visualization project.
+
+You can use RStudio to open and run app.R
