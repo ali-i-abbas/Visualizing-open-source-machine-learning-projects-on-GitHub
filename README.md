@@ -8,3 +8,5 @@ like companies, year and language of development.
 I used the combination of R, Shiny, and r2d3 to implement this visualization project.
 
 You can use RStudio to open and run app.R
+
+Please find more details about the project in "Ali Abbas - Project.pdf"
